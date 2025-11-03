@@ -4,7 +4,7 @@
 
 ### Securité
 
-Asynnetric encryption uses a Pair of Key: private key and publick key
+Asymmetric encryption uses a Pair of Key: private key and publick key
 
 Pour generer les paires de clé:
 
